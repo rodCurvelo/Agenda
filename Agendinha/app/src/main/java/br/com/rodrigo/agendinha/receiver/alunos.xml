@@ -1,0 +1,18 @@
+<alunos>
+    <aluno>
+        <id>1</id>
+        <nome>Rodrigo</nome>
+        <endereco>Rua Noruega</endereco>
+        <telefone>12545645</telefone>
+        <site>www.folha.com.br</site>
+        <nota>10.0</nota>
+    </aluno>
+    <aluno>
+        <id>2</id>
+        <nome>LeAnna</nome>
+        <endereco>Avenida Brasil</endereco>
+        <telefone>415587894</telefone>
+        <site>www.caelum.com.br</site>
+        <nota>10.0</nota>
+    </aluno>
+</alunos>

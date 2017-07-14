@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "aluno": [
+        {
+          "id":"1",
+          "nome":"Daniel",
+          "endereco": "Rua Vergueiro",
+          "telefone": "4464654646",
+          "site":"www.alura.com.br",
+          "nota":"5.0"
+        },
+        {
+          "id":"1",
+          "nome":"Marildo",
+          "endereco": "Rua do Beico",
+          "telefone": "4464654646",
+          "site":"www.alura.com.br",
+          "nota":"6.0"
+        }
+      ]
+    }
+  ]
+}
